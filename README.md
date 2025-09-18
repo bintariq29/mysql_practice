@@ -1,1 +1,1 @@
-# mysql_practice
+SQL Practice Solutions
