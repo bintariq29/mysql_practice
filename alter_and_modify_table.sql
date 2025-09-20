@@ -1,0 +1,19 @@
+-- Rename table users to partners;
+-- select * from partners;
+-- select * from users;
+-- select * from partners;
+-- Alter Table partners add column is_active bool not null;
+-- select * from partners;
+-- alter table partners drop column gender;
+-- select * from partners;
+-- alter table partners rename column email to Email;
+-- select * from partners;
+-- alter table partners modify column Email varchar(150) not null unique;
+-- describe partners;
+-- select * from partners;
+-- describe partners;
+-- select * from partners;
+-- alter table partners rename column Email to email;
+-- alter table partners modify column email varchar(150) not null unique first;
+-- select * from partners;
+
