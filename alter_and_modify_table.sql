@@ -1,3 +1,14 @@
+-- create database startersql;
+-- use startersql;
+-- create table users(
+-- id int auto_increment primary key,
+-- email varchar(100) unique not null,
+-- name varchar(100) not null,
+-- gender enum('Male','Female','Other'),
+-- date_of_birth date not null
+-- );
+-- select * from users;
+-- select id , email from users;
 -- Rename table users to partners;
 -- select * from partners;
 -- select * from users;
@@ -16,4 +27,6 @@
 -- alter table partners rename column Email to email;
 -- alter table partners modify column email varchar(150) not null unique first;
 -- select * from partners;
+-- drop database startersql;
+-- use startersql;
 
